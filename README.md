@@ -1,5 +1,5 @@
-# Rss订阅源
-## 论坛Rss
+# Rss订阅源列表
+## 各大论坛Rss
 - 脉脉热榜: https://decemberpei.cyou/rssbox/maimai_hot.xml
 - FT中文网-一周热门文章: https://decemberpei.cyou/rssbox/ft_weekly.xml
 - 北邮人论坛十大热门话题-手机版: https://decemberpei.cyou/rssbox/byr.xml
@@ -304,4 +304,4 @@
 - 微信公众号-Linux爱好者: https://decemberpei.cyou/rssbox/wechat-linuxaihaozhe.xml
 - 微信公众号-中正电脑: https://decemberpei.cyou/rssbox/wechat-zhongzhengdiannao.xml
 - 微信公众号-游天涯上海索客运动户外俱乐部: https://decemberpei.cyou/rssbox/wechat-youtianya.xml
-## Find more on https://decemberpei.cyou/rssbox
+## More on https://decemberpei.cyou/rssbox
